@@ -1,0 +1,16 @@
+{
+    "image": "arbitrage_algorithm",
+    "mounts": [
+        "source=${localWorkspaceFolder}/.devcontainer,target=/arbitrage_algorithm/.devcontainer,type=bind,consistency=cached",
+        "source=${localWorkspaceFolder}/Dockerfile,target=/arbitrage_algorithm/Dockerfile,type=bind,consistency=cached"
+    ],
+    "workspaceFolder": "/arbitrage_algorithm",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-toolsai.jupyter",
+                "ms-python.python"
+            ]
+        }
+    }
+}
