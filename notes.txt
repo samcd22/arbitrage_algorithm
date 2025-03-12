@@ -1,0 +1,16 @@
+List of arbitrage parameters to consider
+
+taker fee
+maker fee
+withdrawl fee
+minimum withdrawal amount
+maximum withdrawal amount
+withdrawal time
+withdrawal network
+withdrawal network reliability
+price on exchange 1
+price on exchange 2
+lot size
+liquidity on exchange 1
+liquidity on exchange 2
+trade time

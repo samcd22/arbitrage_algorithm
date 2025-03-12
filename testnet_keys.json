@@ -1,0 +1,10 @@
+{
+    "binance": {
+        "apiKey": "l3kX3jqB8tOkaQ9iqMNEcgndi9NnVtuOu22skuulsMgcdmqGVLmdfoWHNPZnnXHA",
+        "secret": "Zr9ouODlXceVTiCganxNxImn1usZuLPKEKbKimZNI71wpjgnDk9jquS7Un7s6vKB"
+    },
+    "bybit": {
+        "apiKey": "wNGc3yVjYBXxfaAeYi",
+        "secret": "p7PFcUTvVNrNXSpOO176PhCteQuKJKkxYxXc"
+    }
+}

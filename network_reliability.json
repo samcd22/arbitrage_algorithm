@@ -1,0 +1,17 @@
+{
+    "ETH": {"Block Time (sec)": 13.2, "Congestion": 50, "Uptime (%)": 99.98, "Failure Rate (%)": 1.2},
+    "BSC": {"Block Time (sec)": 3.0, "Congestion": 30, "Uptime (%)": 99.5, "Failure Rate (%)": 2.0},
+    "SOL": {"Block Time (sec)": 0.4, "Congestion": 25, "Uptime (%)": 95.0, "Failure Rate (%)": 5.0},
+    "AVAX": {"Block Time (sec)": 2.0, "Congestion": 35, "Uptime (%)": 99.0, "Failure Rate (%)": 1.5},
+    "POLYGON": {"Block Time (sec)": 2.1, "Congestion": 40, "Uptime (%)": 99.2, "Failure Rate (%)": 1.8},
+    "ARBITRUM": {"Block Time (sec)": 1.0, "Congestion": 28, "Uptime (%)": 99.5, "Failure Rate (%)": 1.0},
+    "OPTIMISM": {"Block Time (sec)": 2.0, "Congestion": 32, "Uptime (%)": 99.3, "Failure Rate (%)": 1.5},
+    "TRX": {"Block Time (sec)": 3.0, "Congestion": 20, "Uptime (%)": 99.7, "Failure Rate (%)": 0.5},
+    "DOGE": {"Block Time (sec)": 60.0, "Congestion": 15, "Uptime (%)": 98.0, "Failure Rate (%)": 2.0},
+    "LTC": {"Block Time (sec)": 2.5, "Congestion": 25, "Uptime (%)": 99.9, "Failure Rate (%)": 0.8},
+    "XRP": {"Block Time (sec)": 3.5, "Congestion": 10, "Uptime (%)": 99.99, "Failure Rate (%)": 0.1},
+    "DOT": {"Block Time (sec)": 6.0, "Congestion": 30, "Uptime (%)": 99.8, "Failure Rate (%)": 1.5},
+    "ADA": {"Block Time (sec)": 20.0, "Congestion": 45, "Uptime (%)": 99.6, "Failure Rate (%)": 2.0},
+    "FIL": {"Block Time (sec)": 30.0, "Congestion": 50, "Uptime (%)": 97.0, "Failure Rate (%)": 4.0},
+    "XLM": {"Block Time (sec)": 5.0, "Congestion": 10, "Uptime (%)": 99.99, "Failure Rate (%)": 0.2}
+}
